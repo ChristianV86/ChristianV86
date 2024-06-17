@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Cristian David Vanegas
 ==============================================================================================================================================
 
-Junior Fullstack Web Developer
+Junior Backend Web Developer
 ------------------------------
 
 I have been learning various web development technologies for more than two years, of which I have decided to specialize in .Net and Angular
